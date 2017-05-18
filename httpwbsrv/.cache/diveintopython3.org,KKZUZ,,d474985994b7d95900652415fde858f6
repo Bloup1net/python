@@ -1,0 +1,15 @@
+status: 200
+cache-control: no-cache
+server: Microsoft-IIS/7.5
+content-type: text/html; charset=utf-8
+x-powered-by: ASP.NET
+age: 1
+x-aspnet-version: 4.0.30319
+content-location: http://diveintopython3.org/KKZUZ/
+pragma: no-cache
+content-length: 303
+expires: -1
+connection: keep-alive
+date: Wed, 17 May 2017 22:28:06 GMT
+
+<!DOCTYPE html><body style="padding:0; margin:0;"><html><body><iframe src="http://mcc.godaddy.com/park/pKMcpaMuM2WwoTq1LzRmYzWyqN==" style="visibility: visible;height: 100%; position:absolute" allowtransparency="true" marginheight="0" marginwidth="0" frameborder="0" width="100%"></iframe></body></html>
